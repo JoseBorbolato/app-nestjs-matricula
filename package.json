@@ -1,6 +1,9 @@
 {
   "name": "matriculas",
   "version": "0.0.1",
+  "engines": {
+    "node": ">=17 <=18"
+  },
   "description": "",
   "author": "",
   "private": true,
